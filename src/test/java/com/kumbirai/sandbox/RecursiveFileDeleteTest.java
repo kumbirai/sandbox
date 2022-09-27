@@ -1,2 +1,5 @@
-package com.kumbirai.sandbox;public class RecursiveFileDeleteTest {
+package com.kumbirai.sandbox;
+
+public class RecursiveFileDeleteTest
+{
 }
